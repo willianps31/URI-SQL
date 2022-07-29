@@ -1,5 +1,6 @@
-# URI SQL Querys
- These are the querys that i did to solve the URI SQL problems. In the URI platform, each question has a unique code. I use that code to name the files that solve the questions. As the questions are about SQL, i used SQL to solve them and the resources that the language provides.
+# URI SQL Queries
+
+These are the queries that i did to solve the URI SQL problems. In the URI platform, each question has a unique code. I use that code to name the files that solve the questions. As the questions are about SQL, i used SQL to solve them and the resources that the language provides.
 
 ---
 
